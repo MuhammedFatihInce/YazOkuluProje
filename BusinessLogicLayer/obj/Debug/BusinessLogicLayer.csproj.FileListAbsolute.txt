@@ -1,0 +1,11 @@
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\YazOkuluDersler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\YazOkuluDersler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\YazOkuluDersler\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\YazOkuluDersler\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\YazOkuluDersler\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\YazOkuluDersler\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
